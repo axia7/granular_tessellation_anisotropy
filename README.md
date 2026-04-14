@@ -7,6 +7,6 @@ The data is separated into four different folders
 3) single_voxels (contains elastic tensors for 4 different kind of physical boundaries: fix_cubic, fix_rhombohedral, fix_triclinic, flex)
 4) tessellations (contains elastic tensors for 3 different kind of tessellations: homogeneous, heterogeneous, homogeneous_flex)
 
-* See README files in each folder for more details
+See README files in each folder for more details
 
 We also include matlab code to calculate the quantities A_G, A_C, and A^U in the script "calculate_anisotropy.m"
